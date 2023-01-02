@@ -14,7 +14,7 @@ The Dataset for training CycleGAN can be downloaded using [this link](http://efr
 You can able to train by executing **train.py**.
 
 ### Training procedure
-You can easily able to understand the Training procedure by looking at the below image.
+
 ![Training procedure](https://blog.jaysinha.me/content/images/size/w2000/2021/03/cyclegan.png)
 
 ## CycleGAN paper
